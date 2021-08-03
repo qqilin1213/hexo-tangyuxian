@@ -108,9 +108,6 @@ theme: tangyuxian
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-    type: git
-    repo: git@81.68.80.201:/home/git/blog.git     # repository url
-    branch: master      # 分支
 
 search:
   path: search.xml
